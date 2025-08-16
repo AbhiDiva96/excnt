@@ -64,7 +64,7 @@ export default function ExamCard({
           <div className="absolute -bottom-6 -right-6 w-28 h-28 bg-purple-500 rounded-full blur-3xl opacity-30"></div>
 
           {/* Card content */}
-          <h3 className="text-2xl font-bold text-white drop-shadow-md">
+          <h3 className="text-2xl font-bold text-whiteo uppercase drop-shadow-md">
             {exam.name}
           </h3>
           <p className="text-gray-300 text-sm mb-2">
